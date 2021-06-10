@@ -1,0 +1,1 @@
+<?php echo $str; ?><?php /**PATH /opt/lampp/htdocs/neosoft/resources/views/email/email.blade.php ENDPATH**/ ?>
